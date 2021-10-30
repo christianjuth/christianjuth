@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fingerprint": "^1.2.2",
+    "nodemon": "^2.0.14",
+    "tictactoe-complex-ai": "^1.0.1"
+  }
+}
