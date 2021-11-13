@@ -11,3 +11,5 @@ Click on any cell to play Tic Tac Toe against the computer.
 | Winner | <img src="https://express.christianjuth.com/tic-tac-toe/winner?noFingerprint=true" width="30" /> |
 
 <a href="https://express.christianjuth.com/tic-tac-toe/restart?noFingerprint=true&redirect=https://github.com/christianjuth">Restart game</a>
+
+_The game auto restarts after a few minutes of inactivity._
