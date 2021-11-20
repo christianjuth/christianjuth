@@ -1,4 +1,4 @@
-[Play as X](http://localhost:3000/tic-tac-toe/play-as?player=X&noFingerprint=true) | [Play as O](http://localhost:3000/tic-tac-toe/play-as?player=O&noFingerprint=true)
+[Play as X](https://express.christianjuth.com/tic-tac-toe/play-as?player=X&noFingerprint=true) | [Play as O](https://express.christianjuth.com/tic-tac-toe/play-as?player=O&noFingerprint=true)
 
 Click on any cell to play Tic Tac Toe against the computer.
 
