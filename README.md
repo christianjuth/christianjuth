@@ -1,4 +1,4 @@
-[Play as X](https://express.christianjuth.com/tic-tac-toe/play-as?player=X&noFingerprint=true) | [Play as O](https://express.christianjuth.com/tic-tac-toe/play-as?player=O&noFingerprint=true)
+[Play as X](https://express.christianjuth.com/tic-tac-toe/play-as?player=X&noFingerprint=true&redirect=https://github.com/christianjuth) | [Play as O](https://express.christianjuth.com/tic-tac-toe/play-as?player=O&noFingerprint=true&redirect=https://github.com/christianjuth)
 
 Click on any cell to play Tic Tac Toe against the computer.
 
