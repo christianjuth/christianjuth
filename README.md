@@ -8,6 +8,7 @@ Click on any cell to play Tic Tac Toe against the computer.
 
 | | |
 | -- | -- |
+| Predicted winner | <img src="https://express.christianjuth.com/tic-tac-toe/predicted-winner?noFingerprint=true" width="30" /> |
 | Winner | <img src="https://express.christianjuth.com/tic-tac-toe/winner?noFingerprint=true" width="30" /> |
 
 [Restart game](https://express.christianjuth.com/tic-tac-toe/restart?noFingerprint=true&redirect=https://github.com/christianjuth) _(auto restarts after a few minutes)_
